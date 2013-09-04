@@ -1,0 +1,8 @@
+Package: com.ps.siricorrectinfinityios6
+Name: SiriCorrectInfinity for iOS 6
+Depends: mobilesubstrate, firmware (>= 6.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: unlimited editing your phrases.
+Author: PoomSmart
+Section: Tweaks
